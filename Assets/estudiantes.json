@@ -1,0 +1,38 @@
+﻿{
+	"datos": [
+
+		{
+			"id": 1,
+			"nombre": "Alfredo",
+			"apellido": "Lopez",
+			"correo": "Alpez@gmail.com",
+			"nota": 0.2
+		},
+
+		{
+			"id": 2,
+			"nombre": "Mateo",
+			"apellido": "Garzon",
+			"correo": "MatGa@gmail.com",
+			"nota": 4
+		},
+
+		{
+			"id": 3,
+			"nombre": "Jose",
+			"apellido": "Lopoez",
+			"correo": "JoLop@gmail.com",
+			"nota": 3
+		},
+
+
+		{
+			"id": 4,
+			"nombre": "Ana",
+			"apellido": "Rojas",
+			"correo": "Anaroj@hotmail.com",
+			"nota": 3.5
+		}
+
+	]
+}
